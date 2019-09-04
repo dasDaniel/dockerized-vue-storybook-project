@@ -1,9 +1,9 @@
 {
-  "name": "example",
+  "name": "a-storybook-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "storybook": "start-storybook"
+    "storybook": "start-storybook -p 8086"
   },
   "author": "Daniel Poda",
   "license": "ISC",

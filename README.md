@@ -17,4 +17,8 @@
 ```
 - create a component `components/MyButton.vue`
 - crate `.storybook/config.js`
-- create first story `/stories/index.js`
+- create first story `/stories/button.js`
+
+- create `dockerfile`
+- create `.dockerignore`
+- create `docker-compose.yml` for convinience
